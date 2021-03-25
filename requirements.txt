@@ -3,4 +3,4 @@ peewee==3.13.1
 PyMySQL==0.9.3
 pytz==2019.3
 sentry-sdk==0.14.2
-pyyaml==5.3
+pyyaml==5.4
